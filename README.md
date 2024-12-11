@@ -189,9 +189,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Rommel Estardo - [@RommelEstardo](https://github.com/RommelEstardo)
 
-## 🙏 Acknowledgments
-
-- AWS Documentation
-- Microsoft SQL Server Documentation
-- Python Community
-- Open Source Contributors
