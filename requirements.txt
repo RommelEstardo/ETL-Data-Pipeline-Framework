@@ -1,0 +1,7 @@
+boto3
+pandas
+pyodbc
+paramiko
+requests
+numpy
+sqlalchemy
